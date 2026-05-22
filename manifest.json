@@ -1,0 +1,12 @@
+{
+  "background_color": "#767676",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FitTrack",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FiT",
+  "start_url": "https://garciaachristian.github.io/FitTrack/",
+  "theme_color": "#454545",
+  "description": "Basic Fitness Tracker"
+}
