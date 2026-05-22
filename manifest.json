@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/FitTrack/",
   "short_name": "FiT",
-  "start_url": "/FitTrack/",
+  "start_url": "https://garciaachristian.github.io/FitTrack/",
   "theme_color": "#454545",
   "description": "Basic Fitness Tracker",
   "icons": [
